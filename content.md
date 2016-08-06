@@ -1,6 +1,6 @@
 
 
-  * Touch Designer &
+  * TouchDesigner &
   * Quartz Composer &
   * Isadora &
   * Max/MSP &
